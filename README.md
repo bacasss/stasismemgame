@@ -23,4 +23,4 @@ PCB 3d (rear)
 ![stasismemgame](images/pcb3dback.png)
 
 Verified Code (no more bugs :D):
-![stasismemgame](images/verifiedcode.png)
+![stasismemgame](images/codeverified.png)
