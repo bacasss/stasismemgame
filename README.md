@@ -27,8 +27,11 @@ Verified Code (no more bugs :D):
 
 
 i did this in 2 sessions:
-Session 1: 1.03h
+
+Session 1: 1.03h:
+
 i only did the PCB and it took longer than 1h but i didnt setup the time thingy correctly
 
 Session 2: 2.42h:
+
 finished the firmware for the project and Verified my code using arduino IDE until i have no more bugs
