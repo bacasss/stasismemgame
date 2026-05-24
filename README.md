@@ -24,3 +24,9 @@ PCB 3d (rear)
 
 Verified Code (no more bugs :D):
 ![stasismemgame](images/codeverified.png)
+
+BUILD:
+<img width="1537" height="2048" alt="image" src="https://github.com/user-attachments/assets/966e1004-e411-4efa-9488-5ff4d26b31c0" />
+<img width="2048" height="1537" alt="image" src="https://github.com/user-attachments/assets/c939e40f-3121-4adc-8338-16ab3a4176b9" />
+
+
